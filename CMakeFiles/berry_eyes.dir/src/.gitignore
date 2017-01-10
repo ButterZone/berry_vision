@@ -1,0 +1,4 @@
+/autopilot_interface.cpp.o
+/camera_interface.cpp.o
+/mavlink_control.cpp.o
+/serial_port.cpp.o
